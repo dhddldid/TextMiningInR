@@ -10,6 +10,7 @@ install.packages("rJava")
 #KoNLP 는 현재 cran에서 지워져 이렇게 설치를 해야함.
 install.packages("remotes")
 remotes::install_github('haven-jeon/KoNLP',upgrade = "never", INSTALL_opts=c("--no-multiarch"))
+library("KoNLP")
 
 # 또는 아래와 같은 방법으로 설치
 # install.packages('devtools')

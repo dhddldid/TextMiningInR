@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9838c631-4522-4cd5-b035-d20bdbe1e651" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/main.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.R" beforeDir="false" afterPath="$PROJECT_DIR$/main.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MiddleClassR" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,7 +48,8 @@
       <workItem from="1606312672039" duration="435000" />
       <workItem from="1606313124706" duration="328000" />
       <workItem from="1606313470226" duration="1755000" />
-      <workItem from="1606315531195" duration="1333000" />
+      <workItem from="1606315531195" duration="1681000" />
+      <workItem from="1606317234025" duration="364000" />
     </task>
     <servers />
   </component>
@@ -54,6 +57,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1288" y="397" key="FileChooserDialogImpl" timestamp="1606317538241">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1288" y="397" key="FileChooserDialogImpl/0.0.2560.1400/-1920.4.1920.1040@0.0.2560.1400" timestamp="1606317538241" />
     <state x="811" y="345" key="SettingsEditor" timestamp="1606315726934">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
